@@ -2,7 +2,7 @@
 
 > Maintain our day-to-day tasks, this app lets you organize personal and professional tasks
 
-This app uses Node.js/Express application
+This app uses Node.js/Express.
 
 # Quick Start 🚀
 
